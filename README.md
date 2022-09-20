@@ -1,7 +1,9 @@
-[![MaterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-r6Qm0cyrj-mhKVp7-nJ0oFvW9zzu-6PFM3H5vUZa4gbvMZsjinmi9TiJrhpMpe9Nu0&usqp=CAU)](https://mohammad-wildan.vercel.app/)
+<div id="header" align="center">
+  <img src="https://c.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" radius="100%" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Mohammad Wildan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" width="400" alt="coding" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b76114e4e34d915a7319494e07e9d10d4c763afe70fe0&rid=giphy.gif&ct=g" >
+<img align="right" width="400" alt="coding" src="https://pactivate.com/wp-content/uploads/2020/11/Animation-by-DeeKay.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohwildan&label=Profile%20views&color=0e75b6&style=flat" alt="mohwildan" /> </p>
 
