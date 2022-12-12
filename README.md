@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/wildanmhd_" target="blank"><img src="https://img.shields.io/twitter/follow/wildanmhd_?logo=twitter&style=for-the-badge" alt="wildanmhd_" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **pt yureka teknologi cipta**
 
 - 🌱 I’m currently learning **Graphql and typescript**
 
