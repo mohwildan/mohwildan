@@ -3,7 +3,10 @@
 </div>
 <h1 align="center">Hi 👋, I'm Mohammad Wildan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" width="400" alt="coding" src="https://pactivate.com/wp-content/uploads/2020/11/Animation-by-DeeKay.gif" >
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohwildan&label=Profile%20views&color=0e75b6&style=flat" alt="mohwildan" /> </p>
 
