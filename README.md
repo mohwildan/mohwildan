@@ -1,7 +1,7 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 <div id="header" align="center">
   <img src="https://c.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" radius="100%" width="100"/>
 </div>
+<a href=#><img src="contributions.svg"></a>
 <h1 align="center">Hi 👋, I'm Mohammad Wildan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" width="400" alt="coding" src="https://pactivate.com/wp-content/uploads/2020/11/Animation-by-DeeKay.gif" >
