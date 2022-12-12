@@ -2,10 +2,6 @@
   <img src="https://c.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" radius="100%" width="100"/>
 </div>
 <a href=#><img src="https://raw.githubusercontent.com/insolitum/insolitum/f85dab99d95e6765f1afd6f692f88bcafc7b5dd4/contributions.svg"></a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
 <h1 align="center">Hi 👋, I'm Mohammad Wildan</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 <img align="right" width="400" alt="coding" src="https://pactivate.com/wp-content/uploads/2020/11/Animation-by-DeeKay.gif" >
